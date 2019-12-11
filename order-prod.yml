@@ -22,8 +22,7 @@ eureka:
 #  ribbon:
 #    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule # irule 类下实现都可以
 
-
 card:
   name: ycs
   age: 28
-  reamrk: 377704204
+  remark: 377704204
