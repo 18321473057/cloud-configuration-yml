@@ -21,7 +21,7 @@ eureka:
 #itcast-microservice-item:
 #  ribbon:
 #    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule # irule 类下实现都可以
-a:
-  b: ycs
-  c: 28
-  d: 89898989898989
+card:
+  name: ycs
+  age: 28
+  no: 89898989898989
