@@ -21,3 +21,10 @@ eureka:
 #itcast-microservice-item:
 #  ribbon:
 #    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule # irule 类下实现都可以
+
+
+
+card:
+  name: 杨传顺
+  age: 28
+  no: 89898989898989
